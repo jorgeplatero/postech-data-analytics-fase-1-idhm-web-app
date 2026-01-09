@@ -1,4 +1,4 @@
-# Aplicativo Web com Indicadores do IDHM de São Paulo em 2010
+# Aplicativo Web com Indicadores do IDHM de São Paulo de 2010
 
 O Índice de Desenvolvimento Humano Municipal (IDHM) é uma medida composta que avalia o desenvolvimento humano em três dimensões: **longevidade, educação e renda**. Este projeto é um dashboard interativo construído com **Streamlit** para visualizar e analisar esses indicadores nos municípios do Estado de São Paulo com base nos dados do censo de 2010.
 
