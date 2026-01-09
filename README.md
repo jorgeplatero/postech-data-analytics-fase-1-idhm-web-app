@@ -43,7 +43,7 @@ streamlit run app.py
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Frontend/App** | **Streamlit** | `1.23.1` | Framework utilizado para a construção da interface interativa e dashboard |
+| **Frontend/App** | **Streamlit** | `1.23.1` | Framework utilizado para o desenvolvimento do aplicativo web |
 | **Análise de Dados** | **Pandas** | `2.0.2` | Biblioteca utilizada para manipulação de dataframes e estruturação de tabelas |
 | **Visualização** | **Plotly** | `5.15.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
 | **Comunicação** | **Requests** | `2.31.0` | Biblioteca para requisições HTTP e integração de dados |
