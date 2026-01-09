@@ -53,10 +53,11 @@ streamlit run app.py
 ### Fontes de Dados
 
 O fluxo de dados utiliza a base estatística oficial do IPEA (Ipeadata) referente ao IDH 2010.
-Os dados brutos podem ser consultados no link: [IDH_2010.xls](https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls)
+
+Link para a base de dados: https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls
 
 ### Deploy
 
-O dashboard está disponível via Streamlit Cloud.
+O aplicativo está disponível via Streamlit Cloud.
 
-Link para o aplicativo: [https://postechidhmfase1.streamlit.app/](https://postechidhmfase1-gefaxadhrrgxvcmpaglmse.streamlit.app/)
+Link para o aplicativo: https://postechidhmfase1-gefaxadhrrgxvcmpaglmse.streamlit.app/
