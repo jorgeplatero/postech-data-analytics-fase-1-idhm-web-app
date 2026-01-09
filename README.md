@@ -43,10 +43,10 @@ streamlit run app.py
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Frontend/App** | **Streamlit** | `1.23.1` | Framework para desenvolvimento do aplicativo web |
+| **Frontend/App** | **Streamlit** | `1.23.1` | Framework para desenvolvimento de aplicativo web |
 | **Análise de Dados** | **Pandas** | `2.0.2` | Biblioteca para manipulação de dados |
 | **Visualização** | **Plotly** | `5.15.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
-| **Comunicação** | **Requests** | `2.31.0` | Biblioteca para requisições HTTP e consumo de API |
+| **Comunicação** | **Requests** | `2.31.0` | Biblioteca para requisições HTTP e consumo de API ||
 | **Linguagem** | **Python** | `>=3.11` | Linguagem para desenvolvimento de scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
