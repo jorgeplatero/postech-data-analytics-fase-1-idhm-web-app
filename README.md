@@ -50,10 +50,10 @@ streamlit run app.py
 | **Linguagem** | **Python** | `>=3.11` | Linguagem de programação base para o desenvolvimento dos scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de pacotes e ambientes virtuais utilizado para garantir a reprodutibilidade das dependências do projeto |
 
-### Integrações
+### Fontes de Dados
 
 O fluxo de dados utiliza a base estatística oficial do IPEA (Ipeadata) referente ao IDH 2010.
-Os dados brutos podem ser consultados aqui: [IDH_2010.xls](https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls)
+Os dados brutos podem ser consultados no link: [IDH_2010.xls](https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls)
 
 ### Deploy
 
